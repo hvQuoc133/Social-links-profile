@@ -18,7 +18,7 @@ body {
     width: 450px;
     margin-top: 100px;
     margin-bottom: 100px;
-    padding: 30px;
+    padding: 30px;  
 }
 
 .imgMain {
@@ -26,7 +26,7 @@ body {
     border-radius: 50%;
     width: 120px;
     height: 120px;
-    margin-left: 135px;
+    margin: 0 auto 20px auto; /* Căn giữa ảnh */
 }
 
 .imgMain img {

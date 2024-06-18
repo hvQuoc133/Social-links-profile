@@ -15,7 +15,7 @@ body {
     background-color: rgb(31, 29, 29);
     border-radius: 15px;
     height: 700px;
-    width: 500px;
+    width: 450px;
     margin-top: 100px;
     margin-bottom: 100px;
     padding: 30px;
@@ -26,7 +26,7 @@ body {
     border-radius: 50%;
     width: 120px;
     height: 120px;
-    margin-left: 150px;
+    margin-left: 135px;
 }
 
 .imgMain img {
@@ -40,16 +40,15 @@ body {
     margin-top: 50px;
 }
 
-.titleContent h2 {
+.titleContent h1 {
     height: 20px;
     color: white;
     font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.titleContent h4 {
+.titleContent p {
     color: hsl(75, 94%, 57%);
-    ;
     font-size: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -62,6 +61,7 @@ body {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 30px;
+    font-size: 14px;
 }
 
 .btnLink {
